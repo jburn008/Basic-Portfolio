@@ -1,5 +1,5 @@
 body {
-    background-image: "images/swirl_pattern.png";
+    background-image: url("../images/swirl_pattern.png");
     background-color: #ffffff;
     width: 960px;
     margin: 38px;
@@ -40,4 +40,5 @@ img {
     height: 200px;
     width: auto;
     float: left;
+    padding: 10px;
 }
